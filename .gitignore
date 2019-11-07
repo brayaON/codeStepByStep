@@ -1,0 +1,29 @@
+# Prerequisitos
+*.d
+*.pro.user
+
+# Archivos de Objetos Compilados
+*.slo
+*.lo
+*.o
+*.obj
+
+# Cabezeras precompiladas
+*.gch
+*.pch
+
+# Librerías Dinámicas Compiladas
+*.so
+*.dylib
+*.dll
+
+# Librerías Estáticas Compiladas
+*.lai
+*.la
+*.a
+*.lib
+
+# Ejecutables
+*.exe
+*.out
+*.app
