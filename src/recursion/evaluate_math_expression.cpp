@@ -11,6 +11,7 @@ int evaluateMathExpressionHelper(string s, int ans) {
     if (s.length() == 0) {
         return ans;
     }
+    return 0;
 }
 
 int main_evaluate() {

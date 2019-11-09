@@ -9,6 +9,7 @@ int main_factorial() {
     cin >> n;
 
     cout << "fact(" << n << ") = " << factorial_recursivo(n) << endl;
+    return 0;
 }
 
 int factorial_recursivo(int n) {

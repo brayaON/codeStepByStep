@@ -16,4 +16,5 @@ string reversee(string s) {
 int main_reversee() {
     string s = "Pikachu";
     cout << reversee(s) << endl;
+    return 0;
 }
